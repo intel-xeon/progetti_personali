@@ -1,3 +1,4 @@
+# Invoke-WebRequest https://raw.githubusercontent.com/intel-xeon/Threat-intelligence/main/host_file.txt -OutFile C:\Windows\System32\drivers\etc\hosts;ipconfig /flushdns
 while true
 do
 git pull
